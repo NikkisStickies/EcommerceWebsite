@@ -40,7 +40,7 @@ We are planning to create a business that caters to the needs of everyone when i
 ## Business processes
 Printer:
 -       Needs to have ink
--       Needs specific paper
+-       Needs specific paper 
 Website:
 -       Needs accessibility
 -       Needs functionality
