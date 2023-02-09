@@ -67,3 +67,50 @@ The operational policies must hold users’ information safely. Stickers will be
 -       Stickers drafts will first be sent to the customer, before mass producing or shipping, either via email or text.
 ## Business structure
 -       The business will be run at home with a printer that is made for making quality stickers. The stickers materials will be American Quality products. The process may include more people, but the business is mainly run and operated by Nicole Leser.
+
+# Preliminary operational concept of proposed system
+
+## Preliminary operational concept
+To ensure the efficiency of the e-commerce webiste, we must comply with the the relevant regulations. The user should be able to have multiple ways of paying for their items, be provided a reliable shippimg process and be provided a shopping cart to add the stickers too while they browse our products. 
+
+### operational policies and constraints;
+- Payment Policy : Explains the payment options that will be provided to our customers assuming they meet certain expectations outlined. This will include credit card and PayPal as accepted forms of payment. 
+- Shipping Policy : Explains the shipping options that will be given to the customer such as standard and international shipping. 
+- Privacy Policy : Explains how customer data, such as payment and shipping information, is processed and used by the webiste. 
+- Legal Constraints: Legal guidlines such as data protection laws and consumer protection.  
+
+### description of the proposed system;
+The e-commerce website will be able to offer users a shopping cart to hold their items while they browse products. The webiste will give users multiple payment and shipping options when executing their order, and do so in a way that protects the user's data. 
+
+### modes of system operation;
+The modes include inventory management, order processing and maintaining the website in order to ensure that the website is functioning efficiently. 
+
+### user classes and other involved personnel;
+- Customers
+- Inventory Manager 
+- Website Administrator
+- Payment Processing Service Team
+
+### support environment.
+The support enviornment will be the components to ensure the website functions properly. It will include payment and shipping processing sytems, a data managment system and software infraustructure. Regular maintenance will be performed on the webiste. 
+
+## Preliminary operational scenarios
+1. Website Inventory: The webiste should be updated with new sticker products and getting a hold of more product to fit the demand. 
+2. Shipping/Delivery: If a user wants some stickers to be sent to their house, we should be able to provide the tracking information to cutomers. 
+
+# Other preliminary life-cycle concepts
+
+## Preliminary acquisition concept
+The system solution will be aquired by first aquiring the right technical infraustructure such as a database to hold shipping and customer information for the website. There will be a website administrator making sure the website is maintained. 
+
+## Preliminary deployment concept
+
+## Preliminary support concept
+
+## Preliminary retirement concept
+
+# Project Constraints
+
+# Appendix
+
+## Acronyms and abbreviations
