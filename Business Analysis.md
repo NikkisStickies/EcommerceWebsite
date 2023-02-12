@@ -1,7 +1,7 @@
 # Introduction
 
 ## Business purpose
-The purpose of this business is to provide a new outlet for people to express themselves with stickers. From customizing the back of a laptop to advertising a business, Nikki’s Stickies Stickers is a business for all people interested. The business should be able to sell goods over the internet through an ecommerce website. The user should be able to track their orders and easily navigate our site. 
+The purpose of this business is to provide a new outlet for people to express themselves with stickers. From customizing the back of a laptop to advertising a business, Nikki’s Stickies Stickers is a business for all people interested. The business should be able to sell goods over the internet through an e-commerce website. The user should be able to track their orders and easily navigate our site. 
 
 ## Business scope
 The organization is named Nikki’s Stickies because it’s a fun and catchy name that represents the product and the owner in one name. The business scope is to help people who want to express themselves through customizable art, help with journal therapy, and possibly to help businesses get their names out. The website will allow people to grab a photo or custom design their own and the website will turn it into one or many stickers.  The business will have a database for customers and will be able to track their past and current orders. The business will hold the user’s personal information so that the user does not have to put down the shipping/billing every time. 
@@ -57,7 +57,7 @@ The operational policies must hold users’ information safely. Stickers will be
 -       The number of stickers asked to be made
 
 ## Business operational modes
--        If unable to complete an order due to an influx of orders, an email will be sent explaining the circumstance and the customer will be given a timeline when the sticker can be made.
+-        If unable to complete an order due to an influx of orders, an email will be sent explaining the circumstance and the customer will be given a timeline when    the sticker can be made.
 -       If too many stickers are asked to be made, the customer will be provided instructions on how to get the number of stickers they want, for example, placing two orders, instead of one.
 -       If a sticker is offensive, we can offer ideas on how to work around it, such as taking off the offensive part, blurring it, or changing it to something acceptable.
 
@@ -71,10 +71,10 @@ The operational policies must hold users’ information safely. Stickers will be
 # Preliminary operational concept of proposed system
 
 ## Preliminary operational concept
-To ensure the efficiency of the e-commerce webiste, we must comply with the the relevant regulations. The user should be able to have multiple ways of paying for their items, be provided a reliable shippimg process and be provided a shopping cart to add the stickers too while they browse our products. 
+To ensure the efficiency of the e-commerce webiste, we must comply with the the relevant regulations. The user should be able to have multiple ways of paying for their items, be provided a reliable shipping process and be provided a shopping cart to add the stickers too while they browse our products. 
 
 ### operational policies and constraints;
-- Payment Policy : Explains the payment options that will be provided to our customers assuming they meet certain expectations outlined. This will include credit card and PayPal as accepted forms of payment. 
+- Payment Policy : Explains the payment options that will be provided to our customers assuming they meet certain expectations outlined. This will include credit card   and PayPal as accepted forms of payment. 
 - Shipping Policy : Explains the shipping options that will be given to the customer such as standard and international shipping. 
 - Privacy Policy : Explains how customer data, such as payment and shipping information, is processed and used by the webiste. 
 - Legal Constraints: Legal guidlines such as data protection laws and consumer protection.  
@@ -101,16 +101,25 @@ The support enviornment will be the components to ensure the website functions p
 # Other preliminary life-cycle concepts
 
 ## Preliminary acquisition concept
-The system solution will be aquired by first aquiring the right technical infraustructure such as a database to hold shipping and customer information for the website. There will be a website administrator making sure the website is maintained. 
+The system solution will be aquired by first obtaining the right technical infraustructure such as a database to hold shipping and customer information for the website. There will be a website administrator making sure the website is maintained. 
 
 ## Preliminary deployment concept
+The system solution will be validated by the success of users testing the system and exporing all potential ordering options on the website from a customer's perspective and by the corresponding employee interactions to fulfill orders and update customer information. The system solution will be delivered by the technical infrastructure and employees that support the website. And the system solution will be introduced into operations by website deployment and continued maitainence by employees. 
 
 ## Preliminary support concept
+The desired support infrastructure and manpower considerations will be staff to maintain website functionality and company databases and employees to fulfill order requests. The operating support will fall to the website admininistrator and manager. The engineering support will fall to the website and database system and their administrator to deal with organizational challenges as orders are received. The maintenance support will also fall to the website and database administrator. The supply support will be provided by employees in charge of sticker creation and material acquisition. And the training support will be given by senior employees to potential future employees.
 
 ## Preliminary retirement concept
+The system will be removed from operation and retired by removing the website from the web, deleting database of shipping and customer information, closing sticker manufacturing operations, disposing of any leftover sticker production materials at appropriate waste facilities, and firing of employees.
 
 # Project Constraints
+The constraits of performing the project within cost and schedule are aquiring sticker materials at market or reduced market costs, producing and shipping stickers below a certain threshold of cost of product to ensure profit gain, producing and maintaining orders within given timeframes, maintaining company employees' salaries within company budget, and maintaining an emergency budget to ensure any errors, such as delayed delivery or downed website, are covered in the budget. 
 
 # Appendix
 
 ## Acronyms and abbreviations
+BRS: Business Requirements Specification is a business solution in terms of customer needs to capture client expectations and provide a starting point for the software development teams.
+DTC: Direct-to-consumer is a retail business model which sells products directly to customers.
+E-commerce: Electronic commerce is online business transactions and interactions that sell information, services and goods through telecommunication networks.
+SQL: Structured Query Language is an international language standard for database manipulation.
+
