@@ -40,4 +40,30 @@ Providing options for customization and personalization can also enhance the use
 
 ## Elicitation Plan
 
+- Interviews of multiple stakeholders:
+We will conduct interviews with the major stakeholders, including the Product Owner/C-Suite, Product Manager, and Employees/Team members, to understand their needs and perspectives on the website. We will ask questions such as:
+What are the primary goals of the website?
+What are the most important features and functionalities of the website?
+What are the potential pain points or areas for improvement in the current website?
+What are the target audience and demographics of the website?
+What are the key performance indicators (KPIs) for the website?
+What are the budget and timeline constraints for the website?
+
+- Prototypes:
+We will create prototypes of the website to visualize and test different design and functionality options. We will use tools such as Figma or powerpoint to create wireframes and mockups of the website. We will also use prototyping tools like InVision, Proto.io, or Marvel to create interactive prototypes that users can test and provide feedback on.
+
+- User stories:
+We will gather user stories to understand the needs and requirements of the website users. We will ask questions such as:
+What are the users' primary goals in using the website?
+What tasks do users need to perform on the website?
+What information do users need to access on the website?
+What are users' pain points or areas for improvement in the current website?
+What features or functionalities would users like to see added to the website?
+
+- Observation:
+We may conduct observation sessions to understand how users interact with the website and identify potential usability issues or areas for improvement.
+
+- Elicitation of requirements:
+Based on the insights gathered from the interviews, prototypes, user stories, and observation, we will elicit requirements related to functionality, performance, usability, interface, and database. These requirements will be documented and used to guide the development of the website.
+
 
