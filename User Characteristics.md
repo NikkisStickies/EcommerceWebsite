@@ -52,11 +52,11 @@ We will create prototypes of the website to visualize and test different design 
 
 - User stories:
 We will gather user stories to understand the needs and requirements of the website users. We will ask questions such as:
-What are the users' primary goals in using the website?
-What tasks do users need to perform on the website?
-What information do users need to access on the website?
-What are users' pain points or areas for improvement in the current website?
-What features or functionalities would users like to see added to the website?
+* What are the users' primary goals in using the website?
+* What tasks do users need to perform on the website?
+* What information do users need to access on the website?
+* What are users' pain points or areas for improvement in the current website?
+* What features or functionalities would users like to see added to the website?
 
 - Observation:
 We may conduct observation sessions to understand how users interact with the website and identify potential usability issues or areas for improvement.
