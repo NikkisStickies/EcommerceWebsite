@@ -1,16 +1,15 @@
 ## Stakeholders
 
 - Product Owner/C-Suite (Nicole Leser) - As the founder and CEO, Nicole Leser will have a significant influence on the direction and strategy of the business. 
-She will be responsible for setting the overall vision, goals, and priorities for the company. 
-Additionally, as the majority stakeholder, she will have final say in important business decisions and will be accountable to investors and other stakeholders.
+She will be responsible for setting the overall vision, goals, and priorities for the company. Nicole will have final say in important business decisions and will be accountable to investors and other stakeholders.
 
-- Product Manager (Tara Trom) - The product manager will work closely with Nicole to ensure that the company's products and services meet the needs of its customers. 
-They will be responsible for managing the product roadmap, conducting market research, and collaborating with designers and developers to create new products and features.
+- Product Manager (Tara Trom) - The product manager will work closely with Nicole to make sure that the company's products and services meet the needs of its customers. 
+They will be responsible for managing the product roadmap, conducting market research, and working with designers and developers to create new products and features.
 
-- Employees/Team members (Jack Leser) - Employees and team members will play a critical role in the development and operation of the system. 
-They will be responsible for carrying out the day-to-day tasks required to keep the business running, including creating and managing website content, fulfilling orders, and providing customer service.
+- Employees/Team members (Jack Leser) - Employees and team members will play a huge role in the development and operation of the system. 
+They will be responsible for carrying out the day-to-day tasks needed to keep the business running, including creating and managing website content, fulfilling orders, and providing customer service.
 
-- Customers - Customers will be the lifeblood of the business, and their satisfaction will be essential to the success of the company. 
+- Customers - Customers will be the lifeblood of the business, and their satisfaction will be essential to the success of the company. They are the people who benefit from the products being sold. 
 The website will need to be user-friendly and provide a seamless shopping experience. Additionally, customer feedback will be important for identifying areas of improvement and opportunities for growth.
 
 Chart Organization
@@ -19,8 +18,8 @@ Chart Organization
 
 
 ## User Characteristics 
-- Language: The website is likely to attract a diverse range of users from different locations. 
-The website should be designed to be inclusive of all users and take into account different language preferences.
+- Language: The website is likely to attract a big range of users from different locations. 
+The website should be designed to be inclusive of all users and take into account different languages.
 
 - Educational level: The website should be designed to accommodate users with varying levels of education. 
 The language used should be clear and easy to understand, and any technical terms should be explained. 
@@ -46,7 +45,6 @@ What are the primary goals of the website?
 What are the most important features and functionalities of the website?
 What are the potential pain points or areas for improvement in the current website?
 What are the target audience and demographics of the website?
-What are the key performance indicators (KPIs) for the website?
 What are the budget and timeline constraints for the website?
 
 - Prototypes:
